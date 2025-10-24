@@ -1,6 +1,6 @@
 <!-- YAML front-matter schema: https://review.learn.microsoft.com/en-us/help/contribute/samples/process/onboarding?branch=main#supported-metadata-fields-for-readmemd -->
 
-# Get Started with Chat Using Azure AI Foundry
+# Get Started with Chat Using Azure AI Foundry 
 
 <div style="text-align:center;">
 
